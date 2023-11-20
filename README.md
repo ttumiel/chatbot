@@ -1,6 +1,6 @@
 # Next.js AI Chatbot
 
-_An open-source AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Vercel KV._
+_An open-source AI chatbot app template built with Next.js, tailwind CSS, the Vercel AI SDK, and OpenAI._
 
 A stripped down version of [Vercel Chat](https://github.com/vercel-labs/ai-chatbot) with just the chatbot.
 
