@@ -5,7 +5,6 @@ import * as SelectPrimitive from '@radix-ui/react-select'
 
 import { cn } from '@/lib/utils'
 import {
-  IconArrowDown,
   IconCheck,
   IconChevronUpDown
 } from '@/components/ui/icons'
